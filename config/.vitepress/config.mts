@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  srcDir: "..\\markdown",
+  srcDir: "../markdown",
   
   title: "swift blog",
   description: "swift blog demo",
